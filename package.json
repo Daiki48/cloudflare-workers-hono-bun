@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-workers-hono-bun",
-	"author": "Daiki Nakashima",
+  "author": "Daiki Nakashima",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify"
